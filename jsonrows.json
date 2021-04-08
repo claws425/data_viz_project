@@ -1,0 +1,335 @@
+[
+{"Store":"3Fifteen Ann Arbor","County":"Washtenaw","Latitude":"42.2548912","Longitude":"-83.6874526","Street":"3720 Washtenaw Ave","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"734-436-4017"}
+,
+{"Store":"Amazing Budz","County":"Lenawee","Latitude":"41.8820434","Longitude":"-84.043207","Street":"1301 S Main St","City":"Adrian","State":"MI","Zip":"49221","Phone":"517-759-4012"}
+,
+{"Store":"Apothecare Ann Arbor","County":"Washtenaw","Latitude":"42.3028445","Longitude":"-83.7061721","Street":"2793 Plymouth Rd Suite K","City":"Ann Arbor","State":"MI","Zip":"48105","Phone":"734-800-2004"}
+,
+{"Store":"Arbors Wellness","County":"Washtenaw","Latitude":"42.2796917","Longitude":"-83.7451705","Street":"321 E Liberty St","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"734-929-2602"}
+,
+{"Store":"Bloom City Club Ann Arbor","County":"Washtenaw","Latitude":"42.2835295","Longitude":"-83.7524278","Street":"423 Miller Ave","City":"Ann Arbor","State":"MI","Zip":"48103","Phone":"734-585-0621"}
+,
+{"Store":"Cloud Cannabis Co.","County":"Washtenaw","Latitude":"42.2972556","Longitude":"-83.728759","Street":"1760 Plymouth Rd","City":"Ann Arbor","State":"MI","Zip":"48105","Phone":"734-619-1204"}
+,
+{"Store":"Exclusive Ann Arbor","County":"Washtenaw","Latitude":"42.231874","Longitude":"-83.7257792","Street":"3820 Varsity Dr","City":"Ann Arbor","State":"MI","Zip":"48108","Phone":"734-494-0772"},
+{"Store":"Gage Cannabis Co. Adrian","County":"Lenawee","Latitude":"41.8823619","Longitude":"-84.0434382","Street":"922 S Main St","City":"Adrian","State":"MI","Zip":"49221","Phone":"888-424-3463"}
+,
+{"Store":"Green Planet Ann Arbor Provisioning Center","County":"Washtenaw","Latitude":"42.2731667","Longitude":"-83.7384804","Street":"700 Tappan Ave","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"734-845-2172"}
+,
+{"Store":"Heads Cannabis Company Adrian","County":"Lenawee","Latitude":"41.8859975","Longitude":"-84.0433274","Street":"913 S Main St","City":"Adrian","State":"MI","Zip":"49221","Phone":"517-662-4197"}
+,
+{"Store":"Herbana","County":"Washtenaw","Latitude":"42.2725041","Longitude":"-83.7500796","Street":"702 S Main St","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"734-212-1040"}
+,
+{"Store":"Herbology Dispensary Ann Arbor","County":"Washtenaw","Latitude":"42.282305","Longitude":"-83.7851357","Street":"2730 Jackson Ave","City":"Ann Arbor","State":"MI","Zip":"48103","Phone":"734-245-9309"}
+,
+{"Store":"High Profile Ann Arbor","County":"Washtenaw","Latitude":"42.271506","Longitude":"-83.7410384","Street":"617 Packard St","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"734-821-9333"}
+,
+{"Store":"Highwire Farms","County":"Lenawee","Latitude":"41.8872655","Longitude":"-84.04358","Street":"840 S Main St","City":"Adrian","State":"MI","Zip":"49221","Phone":"517-292-4420"}
+,
+{"Store":"Huron View Ann Arbor Dispensary","County":"Washtenaw","Latitude":"42.2717815","Longitude":"-83.7415661","Street":"3152 Packard St","City":"Ann Arbor","State":"MI","Zip":"48108","Phone":"734-882-2970"}
+,
+{"Store":"Information Entropy","County":"Washtenaw","Latitude":"42.2899399","Longitude":"-83.73803","Street":"1115 Broadway St","City":"Ann Arbor","State":"MI","Zip":"48105","Phone":"734-929-4207"},
+{"Store":"Joyology of Reading","County":"Hillsdale","Latitude":"41.8369369","Longitude":"-84.7478685","Street":"112 S Main St","City":"Reading","State":"MI","Zip":"49274","Phone":"517-901-0115"}
+,
+{"Store":"Liberty Cannabis","County":"Washtenaw","Latitude":"42.2784205","Longitude":"-83.7500879","Street":"338 S Ashley St","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"734-773-3075"}
+,
+{"Store":"Lume Cannabis Co. Adrian","County":"Lenawee","Latitude":"41.8879532","Longitude":"-84.0433789","Street":"738 S Main St","City":"Adrian","State":"MI","Zip":"49221","Phone":"517-759-1015"}
+,
+{"Store":"Lume Cannabis Co. Petersburg","County":"Monroe","Latitude":"41.865026","Longitude":"-83.670689","Street":"15205 Tandem Court","City":"Petersburg","State":"MI","Zip":"49270","Phone":"517-401-6986"}
+,
+{"Store":"Michigan Supply & Provisions Ann Arbor","County":"Washtenaw","Latitude":"42.2694316","Longitude":"-83.7745473","Street":"2019 W Stadium Blvd","City":"Ann Arbor","State":"MI","Zip":"48103","Phone":"734-794-3416"}
+,
+{"Store":"MIchigan Supply & Provisions Morenci","County":"Lenawee","Latitude":"41.7178821","Longitude":"-84.2034058","Street":"1096 E Main St","City":"Morenci","State":"MI","Zip":"49256","Phone":"517-458-3002"}
+,
+{"Store":"North Coast Provisions","County":"Lenawee","Latitude":"41.8896346","Longitude":"-84.0238127","Street":"922 E Beecher St","City":"Adrian","State":"MI","Zip":"49221","Phone":"517-759-4428"}
+,
+{"Store":"Om of Medicine","County":"Washtenaw","Latitude":"42.2811141","Longitude":"-83.7486955","Street":"111 S Main St 1st floor","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"734-369-8255"}
+,
+{"Store":"OZ Cannabis Ypsilanti","County":"Washtenaw","Latitude":"42.2413061","Longitude":"-83.6175948","Street":"19 N Hamilton St","City":"Ypsilanti","State":"MI","Zip":"48197","Phone":"734-487-5402"}
+,
+{"Store":"People's Choice Alternative Medicine","County":"Washtenaw","Latitude":"42.2738701","Longitude":"-83.7957572","Street":"2247 W Liberty Rd","City":"Ann Arbor","State":"MI","Zip":"48103","Phone":"734-369-8573"}
+,
+{"Store":"Pinnacle Emporium Provisioning Center Morenci","County":"Lenawee","Latitude":"41.717894","Longitude":"-84.203463","Street":"1098 E Main St","City":"Morenci","State":"MI","Zip":"49256","Phone":"517-458-3040"}
+,
+{"Store":"Pure Roots","County":"Washtenaw","Latitude":"42.2799682","Longitude":"-83.7333962","Street":"3430 Washtenaw Ave","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"844-325-3900"}
+,
+{"Store":"Remedii Stateline","County":"Lenawee","Latitude":"41.7182487","Longitude":"-84.2042474","Street":"989 E Main St","City":"Morenci","State":"MI","Zip":"49256","Phone":"517-458-3800"},
+{"Store":"SkyMInt - Ann Arbor","County":"Washtenaw","Latitude":"42.2604959","Longitude":"-83.7372706","Street":"1958 S Industrial Hwy suite a & b","City":"Ann Arbor","State":"MI","Zip":"48108","Phone":"734-627-7360"}
+,
+{"Store":"Sticky Ypsi","County":"Washtenaw","Latitude":"42.2563347","Longitude":"-83.6309089","Street":"1090 N Huron River Dr","City":"Ypsilanti","State":"MI","Zip":"48197","Phone":"734-879-1204"}
+,
+{"Store":"Teebz of Adrian","County":"Lenawee","Latitude":"41.905465","Longitude":"-84.0692583","Street":"1561 W Maumee St","City":"Adrian","State":"MI","Zip":"49221","Phone":"517-759-4592"}
+,
+{"Store":"The Patient Station","County":"Washtenaw","Latitude":"42.232502","Longitude":"-83.6144333","Street":"539 S Huron St","City":"Ypsilanti","State":"MI","Zip":"48197","Phone":"734-544-9999"}
+,
+{"Store":"Treehouse","County":"Washtenaw","Latitude":"42.2779712","Longitude":"-83.7417299","Street":"603 E William St","City":"Ann Arbor","State":"MI","Zip":"48104","Phone":"734-773-3895"}
+,
+{"Store":"1st Quality Medz","County":"Wayne","Latitude":"42.2708131","Longitude":"-83.1347893","Street":"286 Burke St","City":"River Rouge","State":"MI","Zip":"48218","Phone":"313-406-4688"},
+{"Store":"BREEZE Provisioning Center","County":"Oakland","Latitude":"42.4726832","Longitude":"-83.1046081","Street":"24517 John R Rd","City":"Hazel Park","State":"MI","Zip":"48030","Phone":"833-927-3393"}
+,
+{"Store":"Common Citizen Hazel Park","County":"Oakland","Latitude":"42.4470045","Longitude":"-83.1157957","Street":"877 E 8 Mile Rd","City":"Hazel Park","State":"MI","Zip":"48030","Phone":"248-776-0100"},
+{"Store":"Gage Cannabis Co. Ferndale","County":"Oakland","Latitude":"42.4583197","Longitude":"-83.114751","Street":"1551 Academy St","City":"Ferndale","State":"MI","Zip":"48220","Phone":"888-424-3463"}
+,
+{"Store":"Green Buddha Cannabis Co.","County":"Oakland","Latitude":"42.4639559","Longitude":"-83.123293","Street":"1921 Hilton Rd","City":"Ferndale","State":"MI","Zip":"48220","Phone":"248-965-3911"}
+,
+{"Store":"Green Care","County":"Wayne","Latitude":"42.280606","Longitude":"-83.1289562","Street":"10880 W Jefferson Ave","City":"River Rouge","State":"MI","Zip":"48218","Phone":"313-406-5617"}
+,
+{"Store":"Greenhouse of Walled Lake","County":"Oakland","Latitude":"42.5316194","Longitude":"-83.4844157","Street":"103 E Walled Lake Dr","City":"Walled Lake","State":"MI","Zip":"48390","Phone":"833-644-7336"},
+{"Store":"Herbal Healing","County":"Wayne","Latitude":"42.2710775","Longitude":"-83.134558","Street":"261 Burke St","City":"River Rouge","State":"MI","Zip":"48218","Phone":"313-451-8007"}
+,
+{"Store":"Herbology Cannabis Co.","County":"Wayne","Latitude":"42.262454","Longitude":"-83.137457","Street":"11392 W Jefferson Ave","City":"River Rouge","State":"MI","Zip":"48218","Phone":"313-757-7684"}
+,
+{"Store":"Holistic Health Wayne","County":"Wayne","Latitude":"42.331678","Longitude":"-83.0528342","Street":"38110 Michigan Ave","City":"Wayne","State":"MI","Zip":"48184","Phone":"734-884-4449"},
+{"Store":"LIV Ferndale","County":"Oakland","Latitude":"42.4675474","Longitude":"-83.1236124","Street":"2625 Hilton Rd Suite 100","City":"Ferndale","State":"MI","Zip":"48220","Phone":"248-420-4200"}
+,
+{"Store":"Lume Cannabis Co. Walled Lake","County":"Oakland","Latitude":"42.5390402","Longitude":"-83.4807017","Street":"861 N Pontiac Trail","City":"Walled Lake","State":"MI","Zip":"48390","Phone":"947-214-2700"}
+,
+{"Store":"Michigan's Finest MMD","County":"Wayne","Latitude":"42.2676871","Longitude":"-83.3362341","Street":"39112 Van Born Rd","City":"Wayne","State":"MI","Zip":"48184","Phone":"734-895-8277"}
+,
+{"Store":"New Standard Hazel Park","County":"Oakland","Latitude":"42.475559","Longitude":"-83.1045156","Street":"24906 John R Rd","City":"Hazel Park","State":"MI","Zip":"48030","Phone":"248-873-0420"}
+,
+{"Store":"Pleasantrees Hamtramck","County":"Wayne","Latitude":"42.395126","Longitude":"-83.05197","Street":"2238 Holbrook Ave","City":"Hamtramck","State":"MI","Zip":"48212","Phone":"313-774-0700"}
+,
+{"Store":"Quality Roots Hamtramck","County":"Wayne","Latitude":"42.3970003","Longitude":"-83.0672167","Street":"2024 Caniff St","City":"Hamtramck","State":"MI","Zip":"48212","Phone":"313-263-0360"}
+,
+{"Store":"Shango Provisioning Center Hazel Park","County":"Oakland","Latitude":"42.4599774","Longitude":"-83.1059662","Street":"22821 S Chrysler Dr","City":"Hazel Park","State":"MI","Zip":"48030","Phone":"248-629-9681"}
+,
+{"Store":"SkyMint - Hazel Park","County":"Oakland","Latitude":"42.448937","Longitude":"-83.1028929","Street":"20940 John R Rd","City":"Hazel Park","State":"MI","Zip":"48030","Phone":"313-379-5369"}
+,
+{"Store":"The Flower Bowl","County":"Wayne","Latitude":"42.2915223","Longitude":"-83.3201743","Street":"28661 Michigan Ave","City":"Inkster","State":"MI","Zip":"48141","Phone":"734-895-8753"},
+{"Store":"Bigfoot Wellness","County":"Genesee","Latitude":"43.01881","Longitude":"-83.6339208","Street":"4045 E Court St B","City":"Burton","State":"MI","Zip":"48509","Phone":"810-820-7696"}
+,
+{"Store":"Bloom City Club - Burton","County":"Genesee","Latitude":"43.0331108","Longitude":"-83.6329159","Street":"4086 Davison Rd","City":"Burton","State":"MI","Zip":"48509","Phone":"810-820-7696"}
+,
+{"Store":"The Botanical Co - East Tawas","County":"Iosco","Latitude":"44.27946","Longitude":"-83.49025","Street":"1885 E S U.S. 23","City":"East Tawas","State":"MI","Zip":"48730","Phone":"989-305-6899"}
+,
+{"Store":"Burton Cannabis Company","County":"Genesee","Latitude":"42.979104","Longitude":"-83.6676273","Street":"3365 Associates Dr","City":"Burton","State":"MI","Zip":"48529","Phone":"810-715-9528"}
+,
+{"Store":"Common Citizen Flint","County":"Genesee","Latitude":"43.022542","Longitude":"-83.6446558","Street":"310 S Averill Ave","City":"Flint","State":"MI","Zip":"48506","Phone":"810-223-0700"}
+,
+{"Store":"Dank On Arrival (DOA)","County":"Bay","Latitude":"43.6337864","Longitude":"-83.8735495","Street":"3650 Patterson Rd","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-778-1461"}
+,
+{"Store":"Dispo Bay City","County":"Bay","Latitude":"43.628139","Longitude":"-83.913994","Street":"3843 N Euclid Ave","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-671-9333"}
+,
+{"Store":"Elite Wellness Bay City","County":"Bay","Latitude":"43.6411037","Longitude":"-83.9301029","Street":"3389 S Huron Rd #3","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-439-1711"}
+,
+{"Store":"Elite Wellness Mt. Morris","County":"Genesee","Latitude":"43.120636","Longitude":"-83.578817","Street":"9423 N Dort Hwy","City":"Mt Morris","State":"MI","Zip":"48458","Phone":"810-687-8888"},
+{"Store":"Essence Provisioning Center","County":"Bay","Latitude":"43.8539991","Longitude":"-84.0147818","Street":"759 E Pinconning Rd","City":"Pinconning","State":"MI","Zip":"48650","Phone":"989-879-4000"}
+,
+{"Store":"Fire Creek Bay City","County":"Bay","Latitude":"43.6266267","Longitude":"-83.9140389","Street":"3895 N Euclid Ave suite c","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-439-1311"}
+,
+{"Store":"Green Pharm Bay City","County":"Bay","Latitude":"43.601209","Longitude":"-83.915313","Street":"200 S Euclid Ave","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-316-2833"}
+,
+{"Store":"High Level Health East Tawas","County":"Iosco","Latitude":"44.2260752","Longitude":"-83.5519889","Street":"1730 E US-23","City":"East Tawas","State":"MI","Zip":"48730","Phone":"989-984-5113"}
+,
+{"Store":"High Level Health Vassar","County":"Tuscola","Latitude":"43.3678198","Longitude":"-83.5866533","Street":"327 S Main St","City":"Vassar","State":"MI","Zip":"48768","Phone":"989-882-9101"}
+,
+{"Store":"High Quality Provisioning Center","County":"Bay","Latitude":"43.8480763","Longitude":"-83.9661318","Street":"4700 N Huron Rd","City":"Pinconning","State":"MI","Zip":"48650","Phone":"989-200-2500"}
+,
+{"Store":"Lume Cannabis Co. Owosso","County":"Shiawassee","Latitude":"42.997769","Longitude":"-84.1705266","Street":"116 N Washington St","City":"Owosso","State":"MI","Zip":"48867","Phone":"989-494-4527"}
+,
+{"Store":"Meds Cafe Rogers City","County":"Presque Isle","Latitude":"45.486729","Longitude":"-83.955931","Street":"2352 US-23","City":"Rogers City","State":"MI","Zip":"49779","Phone":"989-734-3114"},
+{"Store":"Nature's Medicines Dispensary","County":"Bay","Latitude":"43.6092417","Longitude":"-83.9162047","Street":"3480 E North Union Rd","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-301-9718"}
+,
+{"Store":"Natures Holiday","County":"Bay","Latitude":"43.635535","Longitude":"-83.9217821","Street":"3620 S Huron Rd","City":".Bay City","State":"MI","Zip":"48706","Phone":"989-402-1519"}
+,
+{"Store":"Oz Cannabis Bay City","County":"Bay","Latitude":"43.6247708","Longitude":"-83.9140853","Street":"3967 N Euclid Ave","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-671-9999"}
+,
+{"Store":"The Pier Provisioning Center","County":"Lapeer","Latitude":"43.0506134","Longitude":"-83.3281289","Street":"2401 W Genesee St","City":"Lapeer","State":"MI","Zip":"48446","Phone":"810-660-7908"},
+{"Store":"PUFF Cannabis Company- Bay City","County":"Bay","Latitude":"43.6177411","Longitude":"-83.8687043","Street":"1680 Marquette Ave","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-778-1144"},
+{"Store":"Pure Lapeer","County":"Lapeer","Latitude":"43.030149","Longitude":"-83.067131","Street":"1330 Imlay City Rd","City":"Lapeer","State":"MI","Zip":"48446","Phone":"810-660-8403"}
+,
+{"Store":"Rair Cannabis of Bay City","County":"Bay","Latitude":"43.6236501","Longitude":"-83.9043828","Street":"3772 Wilder Rd","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-402-1484"},
+{"Store":"The ReLeaf Center","County":"Saginaw","Latitude":"43.1849574","Longitude":"-84.1157557","Street":"144 W Broad St","City":"Chesaning","State":"MI","Zip":"48616","Phone":"989-323-2071"}
+,
+{"Store":"Remedii Bay City","County":"Bay","Latitude":"43.6238735","Longitude":"-83.9116751","Street":"3557 Wilder Rd","City":"ay City","State":"MI","Zip":"48706","Phone":"989-778-1348"}
+,
+{"Store":"The River Provisioning","County":"Saginaw","Latitude":"43.184806","Longitude":"-84.115337","Street":"101 North Front Street STE# A","City":"Chesaning","State":"MI","Zip":"48616","Phone":"989-323-2222"}
+,
+{"Store":"Shango Provisioning Center Bay City","County":"Bay","Latitude":"43.6236563","Longitude":"-83.8999194","Street":"3976 Wilder Rd","City":"Bay City","State":"MI","Zip":"48706","Phone":"989-778-1114"}
+,
+{"Store":"Shango Provisioning Center","County":"Lapeer","Latitude":"43.0509091","Longitude":"-83.3039627","Street":"224 E Genesee St","City":"Lapeer","State":"MI","Zip":"48446","Phone":"810-969-4488"},
+{"Store":"SkyMint Flint","County":"Genesee","Latitude":"43.0609755","Longitude":"-83.7064068","Street":"4405 W Pierson Rd","City":"Flint","State":"MI","Zip":"48504","Phone":"810-275-1805"}
+,
+{"Store":"The Station Provisioning Center","County":"Tuscola","Latitude":"43.3701373","Longitude":"-83.5787155","Street":"302 E Huron Ave","City":"Vassar","State":"MI","Zip":"48768","Phone":"989-882-9298"},
+{"Store":"The Sweet Leaf","County":"Genesee","Latitude":"43.022785","Longitude":"-83.6550325","Street":"400 Dort Hwy","City":"Flint","State":"MI","Zip":"48503","Phone":"810-259-2571"}
+,
+{"Store":"Xplore Cannabis Lapeer","County":"Lapeer","Latitude":"43.0378376","Longitude":"-83.3221556","Street":"824 S Main St","City":"Lapeer","State":"MI","Zip":"48446","Phone":"810-969-4141"}
+,
+{"Store":"3 Fifteen Cannabis - Division","County":"Kent","Latitude":"42.911327","Longitude":"-85.665895","Street":"2900 Division Ave S","City":"Grand Rapids","State":"MI","Zip":"49548","Phone":"616-259-8542"}
+,
+{"Store":"3 Fifteen Cannabis - Plainfield","County":"Kent","Latitude":"43.0250594","Longitude":"-85.6327741","Street":"3423 Plainfield Ave NE","City":"Grand Rapids","State":"MI","Zip":"49525","Phone":"616-734-6331"}
+,
+{"Store":"Bella Sol Wellness Centers","County":"Muskegon","Latitude":"43.2190361","Longitude":"-86.2444676","Street":"1839 Peck St","City":"Muskegon","State":"MI","Zip":"49441","Phone":"231-766-7929"}
+,
+{"Store":"Cloud Cannabis Co.","County":"Muskegon","Latitude":"43.394156","Longitude":"-86.300368","Street":"2190 Whitehall Rd","City":"Muskegon","State":"MI","Zip":"49445","Phone":"231-737-4161"}
+,
+{"Store":"Edmore Provisionary","County":"Montcalm","Latitude":"43.408136","Longitude":"-85.0418871","Street":"202 E Main St","City":"Edmore","State":"MI","Zip":"48829","Phone":"989-304-4064"},
+{"Store":"Exclusive Grand Rapids","County":"Kent","Latitude":"42.9096121","Longitude":"-85.6103866","Street":"2350 29th St SE","City":"Grand Rapids","State":"MI","Zip":"49508","Phone":"616-888-6753"}
+,
+{"Store":"Exit 9 Provisionary","County":"Ottawa","Latitude":"43.0743494","Longitude":"-86.0692228","Street":"12261 Cleveland St","City":"Nunica","State":"MI","Zip":"49448","Phone":"616-384-3161"}
+,
+{"Store":"Fluresh Cannabis Provisioning Center","County":"Kent","Latitude":"42.9413063","Longitude":"-85.6736106","Street":"1213 Phillips Ave SW","City":"Grand Rapids","State":"MI","Zip":"49507","Phone":"616-208-9934"}
+,
+{"Store":"Gage Cannabis Grand Rapids","County":"Kent","Latitude":"43.0036666","Longitude":"-85.5912394","Street":"3075 Peregrine Dr NE","City":"Grand Rapids Charter Township","State":"MI","Zip":"49505","Phone":"888-424-3463"}
+,
+{"Store":"The Green Door Baldwin","County":"Lake","Latitude":"43.8996585","Longitude":"-85.8510016","Street":"9116 S M 37","City":"Baldwin","State":"MI","Zip":"49304","Phone":"231-745-3667"}
+,
+{"Store":"High Profile Grant","County":"Newaygo","Latitude":"43.3319651","Longitude":"-85.8104514","Street":"262 S Maple St","City":"Grant","State":"MI","Zip":"49327","Phone":"231-282-7170"},
+{"Store":"KKIND Big Rapids","County":"Mecosta","Latitude":"43.6886832","Longitude":"-85.4837932","Street":"846 S State St","City":"Big Rapids","State":"MI","Zip":"49307","Phone":"231-460-6111"}
+,
+{"Store":"Lake Life Farms Big Rapids","County":"Mecosta","Latitude":"43.6959067","Longitude":"-85.4820427","Street":"208 S Michigan Ave","City":"Big Rapids","State":"MI","Zip":"49307","Phone":"231-629-8222"},
+{"Store":"Lume Cannabis Co. Big Rapids","County":"Mecosta","Latitude":"43.6972889","Longitude":"-85.4818381","Street":"113 S Michigan Ave","City":"Big Rapids","State":"MI","Zip":"49307","Phone":"231-598-8800"}
+,
+{"Store":"Lume Cannabis Co. Lowell","County":"Kent","Latitude":"42.931523","Longitude":"-85.352267","Street":"1425 W Main St","City":"Lowell","State":"MI","Zip":"�49331","Phone":"616-330-3812"}
+,
+{"Store":"Meds Cafe Lowell","County":"Kent","Latitude":"42.9313114","Longitude":"-85.3599415","Street":"1965 W Main St","City":"Lowell","State":"MI","Zip":"49331","Phone":"616-260-3098"},
+{"Store":"Michiganja White Cloud","County":"Newaygo","Latitude":"43.557986","Longitude":"-85.771678","Street":"230 N Charles St","City":"White Cloud","State":"MI","Zip":"49349","Phone":"231-793-6045"}
+,
+{"Store":"Michigan Supply & Provisions Grand Rapids","County":"Kent","Latitude":"42.9126776","Longitude":"-85.5988504","Street":"2741 28th St SE","City":"Grand Rapids","State":"MI","Zip":"49546","Phone":"616-330-3621"}
+,
+{"Store":"New Standard Sand Lake","County":"Kent","Latitude":"43.292032","Longitude":"-85.5160246","Street":"29 E Lake St","City":"Sand Lake","State":"MI","Zip":"49343","Phone":"616-327-0420"}
+,
+{"Store":"Park Place Provisionary","County":"Muskegon","Latitude":"43.2172802","Longitude":"-86.2541973","Street":"1922 Park St","City":"Muskegon","State":"MI","Zip":"49441","Phone":"231-747-7305"},
+{"Store":"Pharmhouse Wellness","County":"Kent","Latitude":"42.9563289","Longitude":"-85.6877092","Street":"831 Wealthy St SW","City":"Grand Rapids","State":"MI","Zip":"49504","Phone":"616-551-0040"}
+,
+{"Store":"Redbud Roots Muskegon","County":"Muskegon","Latitude":"43.2196627","Longitude":"-86.2498455","Street":"237 W Laketon Ave","City":"Muskegon","State":"MI","Zip":"49441","Phone":"231-766-7479"}
+,
+{"Store":"SkyMint Nunica","County":"Ottawa","Latitude":"43.0743494","Longitude":"-86.0692228","Street":"11999 Cleveland St Suite a","City":"Nunica","State":"MI","Zip":"49448","Phone":"616-512-3280"}
+,
+{"Store":"SkyMint White Cloud","County":"Newaygo","Latitude":"43.557986","Longitude":"-85.771678","Street":"194 N Charles St","City":"White Cloud","State":"MI","Zip":"49349","Phone":"231-282-9863"}
+,
+{"Store":"Timber Cannabis Company","County":"Muskegon","Latitude":"43.2196748","Longitude":"-86.2511732","Street":"313 W Laketon Ave","City":"Muskegon","State":"MI","Zip":"49441","Phone":"231-246-8085"}
+,
+{"Store":"3Fifteen Battle Creek Columbia","County":"Calhoun","Latitude":"42.34513","Longitude":"-85.233008","Street":"1525 W Michigan Ave","City":"Battle Creek","State":"MI","Zip":"49037","Phone":"269-719-2360"}
+,
+{"Store":"Aim High Meds","County":"Calhoun","Latitude":"42.1059128","Longitude":"-84.9889478","Street":"15776 M-60","City":"Tekonsha","State":"MI","Zip":"49092","Phone":"517-583-1063"}
+,
+{"Store":"Amsterdam Battle Creek","County":"Calhoun","Latitude":"42.2939377","Longitude":"-85.0758383","Street":"11280 Michigan Ave","City":"Battle Creek","State":"MI","Zip":"49014","Phone":"269-339-3379"}
+,
+{"Store":"Bloom City - Battle Creek","County":"Calhoun","Latitude":"42.315359","Longitude":"-85.178848","Street":"1193 Michigan Ave","City":"Battle Creek","State":"MI","Zip":"49014","Phone":"269-224-6237"}
+,
+{"Store":"Breedsville Provisioning Center","County":"Van Buren","Latitude":"42.3466286","Longitude":"-86.0703871","Street":"77 E Main St","City":"Breedsville","State":"MI","Zip":"49027","Phone":"269-427-2200"},
+{"Store":"Cannamazoo Provisioning Center","County":"Kalamazoo","Latitude":"42.3131763","Longitude":"-85.5839219","Street":"2233 N Burdick St","City":"Kalamazoo","State":"MI","Zip":"49007","Phone":"269-459-1420"},
+{"Store":"Cannavista Wellness Dispensary","County":"Berrien","Latitude":"41.8272738","Longitude":"-86.3605209","Street":"120 E Front St","City":"Buchanan","State":"MI","Zip":"49107","Phone":"269-234-7377"}
+,
+{"Store":"Common Citizen Battle Creek","County":"Calhoun","Latitude":"42.3014424","Longitude":"-85.1643645","Street":"1240 E Columbia Ave","City":"Battle Creek","State":"MI","Zip":"49014","Phone":"269-719-8500"}
+,
+{"Store":"Compassionate Care By Design Inc.","County":"Kalamazoo","Latitude":"42.295507","Longitude":"-85.643589","Street":"401 N Sage St","City":"Kalamazoo","State":"MI","Zip":"49006","Phone":"269-762-8038"}
+,
+{"Store":"Cookies Kalamazoo","County":"Kalamazoo","Latitude":"42.2638842","Longitude":"-85.5690097","Street":"2712 Portage Street","City":"Kalamazoo","State":"MI","Zip":"49001","Phone":"888-424-3463�"}
+,
+{"Store":"DOJA - Medical and Recreational Dispensary","County":"Kalamazoo","Latitude":"42.2011617","Longitude":"-85.5391511","Street":"4203 E Centre Ave","City":"Portage","State":"MI","Zip":"49002","Phone":"269-366-4808"}
+,
+{"Store":"Exclusive Kalamazoo","County":"Kalamazoo","Latitude":"42.281522","Longitude":"-85.533278","Street":"937 Foster Ave","City":"Kalamazoo","State":"MI","Zip":"49048","Phone":"269-447-1779"}
+,
+{"Store":"Great Lakes Holistics","County":"Calhoun","Latitude":"42.3012575","Longitude":"-85.1648827","Street":"1210 E Columbia Ave","City":"Battle Creek","State":"MI","Zip":"49014","Phone":"269-223-7733"}
+,
+{"Store":"The Green Door Bangor","County":"Van Buren","Latitude":"42.3130473","Longitude":"-86.1114191","Street":"126 W Monroe St","City":"Bangor","State":"MI","Zip":"49013","Phone":"269-427-1435"},
+{"Store":"Green Koi Provisioning","County":"Allegan","Latitude":"42.635151","Longitude":"-86.2120823","Street":"435 Blue Star Hwy Suite b","City":"Douglas","State":"MI","Zip":"49406","Phone":"269-206-3305"},
+{"Store":"Herbology Battle Creek","County":"Calhoun","Latitude":"42.2832273","Longitude":"-85.1574305","Street":"14501 Beadle Lake Rd.","City":"Battle Creek","State":"MI","Zip":"49014","Phone":"269-841-5025"}
+,
+{"Store":"Herbology Kalamazoo","County":"Kalamazoo","Latitude":"42.2710412","Longitude":"-85.531368","Street":"1986 S. Sprinkle Rd.","City":"Kalamazoo","State":"MI","Zip":"49048","Phone":"269-204-2079"},
+{"Store":"Herbology Bangor","County":"Van Buren","Latitude":"42.3129517","Longitude":"-86.1116852","Street":"133 W Monroe St","City":"Bangor","State":"MI","Zip":"49013","Phone":"269-224-0910"},
+{"Store":"High Profile - Boutique Cannabis","County":"Berrien","Latitude":"41.8272417","Longitude":"-86.3523481","Street":"804 E Front St","City":"Buchanan","State":"MI","Zip":"49107","Phone":"269-409-8427"}
+,
+{"Store":"KKIND Kalamazoo","County":"Kalamazoo","Latitude":"42.3185219","Longitude":"-85.5774018","Street":"521 East Mosel Avenue","City":"Kalamazoo","State":"MI","Zip":"49004","Phone":"269-201-2300"}
+,
+{"Store":"Lake Effect","County":"Kalamazoo","Latitude":"42.196363","Longitude":"-85.560869","Street":"8314 Portage Rd","City":"Portage","State":"MI","Zip":"49002","Phone":"269-459-8488"}
+,
+{"Store":"Lume Cannabis Co. Kalamazoo","County":"Kalamazoo","Latitude":"42.2718744","Longitude":"-85.6320686","Street":"3406 Stadium Dr","City":"Kalamazoo","State":"MI","Zip":"49008","Phone":"269-888-1200"},
+{"Store":"Michigan Supply & Provisions Battle Creek","County":"Calhoun","Latitude":"42.261052","Longitude":"-85.180743","Street":"6010 B Dr N","City":"Battle Creek","State":"MI","Zip":"49014","Phone":"269-234-2807"}
+,
+{"Store":"Mint Cannabis Kalamazoo","County":"Kalamazoo","Latitude":"42.2594961","Longitude":"-85.5719237","Street":"730 East Cork Street","City":"Kalamazoo","State":"MI","Zip":"49001","Phone":"269-743-7444"}
+,
+{"Store":"Nature's Finest","County":"Calhoun","Latitude":"42.325359","Longitude":"-85.180267","Street":"625 North Ave","City":"Battle Creek","State":"MI","Zip":"49017","Phone":"269-339-3055"}
+,
+{"Store":"NOBO Cannabis Edwardsburgh","County":"Cass","Latitude":"41.7966508","Longitude":"-86.0801165","Street":"69411 M-62","City":"Edwardsburg","State":"MI","Zip":"49112","Phone":"269-635-6621"},
+{"Store":"Pure Options Muskegon","County":"Muskegon","Latitude":"43.2872411","Longitude":"-86.2192988","Street":"1965 Holton Rd","City":"Muskegon","State":"MI","Zip":"49445","Phone":"231-457-4940"}
+,
+{"Store":"Quality Roots Battle Creek","County":"Calhoun","Latitude":"42.3118421","Longitude":"-85.1604104","Street":"1028 E Michigan Ave","City":"Battle Creek","State":"MI","Zip":"49014","Phone":"269-719-8600"}
+,
+{"Store":"Rair Cannabis of Muskegon","County":"Muskegon","Latitude":"43.2183648","Longitude":"-86.2444814","Street":"1871 Peck Street","City":"Muskegon","State":"MI","Zip":"49441","Phone":"231-747-7939"}
+,
+{"Store":"Remedii Battle Creek","County":"Calhoun","Latitude":"42.2984865","Longitude":"-85.1931004","Street":"160 E Columbia Ave","City":"Battle Creek","State":"MI","Zip":"49015","Phone":"269-223-7744"},
+{"Store":"The Refinery","County":"Kalamazoo","Latitude":"42.2639253","Longitude":"-85.5347073","Street":"3650 Alvan Rd","City":"Kalamazoo","State":"MI","Zip":"49001","Phone":"269-203-2564"}
+,
+{"Store":"The ReLeaf Center","County":"Berrien","Latitude":"41.8521774","Longitude":"-86.2289689","Street":"1840 Terminal Rd","City":"Niles","State":"MI","Zip":"49120","Phone":"269-220-6565"}
+,
+{"Store":"Sun Provisions","County":"Van Buren","Latitude":"42.1076036","Longitude":"-85.9762552","Street":"107 W Delaware St","City":"Decatur","State":"MI","Zip":"49045","Phone":"269-436-8221"},
+{"Store":"20 Past 4 Provisioning Center","County":"Jackson","Latitude":"42.2594186","Longitude":"-84.3508106","Street":"3590 Ann Arbor Rd","City":"Jackson","State":"MI","Zip":"49202","Phone":"517-883-4200"}
+,
+{"Store":"Bazonzoe's Provisioning Center","County":"Ingham","Latitude":"42.748257","Longitude":"-84.579451","Street":"2101 W Willow St Suite A","City":"Lansing","State":"MI","Zip":"48917","Phone":"517-273-3000"}
+,
+{"Store":"The Botanical Co. - Lansing","County":"Ingham","Latitude":"42.7335766","Longitude":"-84.5554708","Street":"3535 Capitol City Blvd","City":"Lansing","State":"MI","Zip":"48906","Phone":"517-679-1170"}
+,
+{"Store":"CHOICE Provisioning Center","County":"Jackson","Latitude":"42.2398194","Longitude":"-84.3596192","Street":"3331 Page Ave","City":"Jackson","State":"MI","Zip":"49203","Phone":"517-513-8342"}
+,
+{"Store":"Edgewood Wellness","County":"Ingham","Latitude":"42.6603058","Longitude":"-84.5532511","Street":"134 E Edgewood Blvd","City":"Lansing","State":"MI","Zip":"48911","Phone":"517-580-7078"}
+,
+{"Store":"Elite Wellness Jackson","County":"Jackson","Latitude":"42.2767743","Longitude":"-84.308903","Street":"6031 Ann Arbor Rd","City":"Jackson","State":"MI","Zip":"49201","Phone":"517-395-4728"},
+{"Store":"From The Earth - Hanover","County":"Jackson","Latitude":"42.085713","Longitude":"-84.641834","Street":"11990 Pulaski Rd","City":"Hanover","State":"MI","Zip":"49241","Phone":"877-562-1646"}
+,
+{"Store":"Fuel 420","County":"Jackson","Latitude":"42.2356514","Longitude":"-84.3460057","Street":"1255 Falahee Rd","City":"Jackson","State":"MI","Zip":"49203","Phone":"517-748-9326"},
+{"Store":"Gage Cannabis Co. Lansing","County":"Ingham","Latitude":"42.6973165","Longitude":"-84.56723","Street":"3425 S Martin Luther King Jr Blvd","City":"Lansing","State":"MI","Zip":"48910","Phone":"888-424-3463"}
+,
+{"Store":"Green Tree Relief","County":"Hillsdale","Latitude":"41.8369369","Longitude":"-84.7478685","Street":"124 S Main St","City":"Reading","State":"MI","Zip":"49274","Phone":"517-901-0163"}
+,
+{"Store":"Homegrown Cannabis Company","County":"Ingham","Latitude":"42.6836744","Longitude":"-84.538055","Street":"5025 S Pennsylvania Ave","City":"Lansing","State":"MI","Zip":"48910","Phone":"517-708-7729"}
+,
+{"Store":"Kinship Cannabis Co.","County":"Jackson","Latitude":"42.2651065","Longitude":"-84.6485327","Street":"2199 N Concord Rd","City":"Albion","State":"MI","Zip":"49224","Phone":"517-257-7372"}
+,
+{"Store":"Lumberjacks Provisioning Center","County":"Barry","Latitude":"42.522696","Longitude":"-85.253443","Street":"8975 M-37","City":"Dowling","State":"MI","Zip":"49050","Phone":"269-721-8708"}
+,
+{"Store":"Pinnacle Emporium Provisioning Center Addison","County":"Lenawee","Latitude":"41.9863734","Longitude":"-84.3495764","Street":"100 S Steer St","City":"Addison","State":"MI","Zip":"49220","Phone":"517-252-5547"}
+,
+{"Store":"Pleasantrees East Lansing","County":"Ingham","Latitude":"42.7491921","Longitude":"-84.4499545","Street":"1950 Merritt Rd","City":"East Lansing","State":"MI","Zip":"48823","Phone":"517-237-3050"}
+,
+{"Store":"Pure Options Lansing East","County":"Ingham","Latitude":"42.729897","Longitude":"-84.523567","Street":"1900 E Kalamazoo St","City":"Lansing","State":"MI","Zip":"48912","Phone":"517-318-6932"},
+{"Store":"Pure Options Lansing North","County":"Clinton","Latitude":"42.763548","Longitude":"-84.542843","Street":"2905 N East St","City":"Lansing","State":"MI","Zip":"48906","Phone":"517-708-7090"}
+,
+{"Store":"Pure Options Lansing South","County":"Ingham","Latitude":"42.6749355","Longitude":"-84.5382927","Street":"5815 S Pennsylvania Ave","City":"Lansing","State":"MI","Zip":"48911","Phone":"517-721-1439"},
+{"Store":"StoneDepot - Jackson","County":"Jackson","Latitude":"42.257233","Longitude":"-84.3553201","Street":"3435 E Michigan Ave","City":"Jackson","State":"MI","Zip":"49202","Phone":"517-955-FIRE"}
+,
+{"Store":"Thrive Provisioning Center","County":"Jackson","Latitude":"42.2768064","Longitude":"-84.3156894","Street":"6007 Ann Arbor Rd","City":"Jackson","State":"MI","Zip":"49201","Phone":"517-795-2825"}
+,
+{"Store":"Authentic231","County":"Manistee","Latitude":"44.2567317","Longitude":"-86.3181277","Street":"74 Arthur St","City":"Manistee","State":"MI","Zip":"49660","Phone":"231-299-1466"},
+{"Store":"Dunegrass Co.","County":"Manistee","Latitude":"44.2556782","Longitude":"-86.3188443","Street":"28 Arthur St","City":"Manistee","State":"MI","Zip":"49660","Phone":"231-299-1066"}
+,
+{"Store":"Green Pharm Kalkaska","County":"Kalkaska","Latitude":"44.7194345","Longitude":"-85.1878679","Street":"764 S Cedar St","City":"Kalkaska","State":"MI","Zip":"49646","Phone":"231-384-6614"},
+{"Store":"HumbleBee Provisioning Center","County":"Crawford","Latitude":"44.7856195","Longitude":"-84.7540132","Street":"6974 N Old 27","City":"Frederic","State":"MI","Zip":"49733","Phone":"989-745-6575"}
+,
+{"Store":"Lume Cannabis Co. Evart","County":"Osceola","Latitude":"43.900691","Longitude":"-85.266277","Street":"600 W 7th St","City":"Evart","State":"MI","Zip":"49631","Phone":"231-202-2318"},
+{"Store":"Lume Cannabis Co. Honor","County":"Benzie","Latitude":"44.6629195","Longitude":"-86.0138018","Street":"9899 Honor Hwy","City":"Honor","State":"MI","Zip":"49640","Phone":"231-383-6771"}
+,
+{"Store":"Lume Cannabis Co. Petoskey","County":"Emmet","Latitude":"45.3700091","Longitude":"-84.9815304","Street":"1345 US-31","City":"Petoskey","State":"MI","Zip":"49770","Phone":"269-888-1019"}
+,
+{"Store":"Pincanna Kalkaska","County":"Kalkaska","Latitude":"44.720661","Longitude":"-85.1868657","Street":"786 S Cedar St","City":"Kalkaska","State":"MI","Zip":"49646","Phone":"855-929-2266"}
+,
+{"Store":"Riverside Provisioning Grayline","County":"Crawford","Latitude":"44.6597586","Longitude":"-84.7557236","Street":"11845 M-72","City":"Grayling","State":"MI","Zip":"49738","Phone":"989-745-6757"},
+{"Store":"Riverside Provisioning Kalkaska","County":"Kalkaska","Latitude":"44.720438","Longitude":"-85.1870479","Street":"782 S Cedar St","City":"Kalkaska","State":"MI","Zip":"49646","Phone":"231-564-4005"}
+,
+{"Store":"Cannabis Lupus Caf","County":"Marquette","Latitude":"46.4012006","Longitude":"-87.4068935","Street":"300 M-553","City":"Marquette","State":"MI","Zip":"49855","Phone":"906-273-0095"}
+,
+{"Store":"Freshwater Cannabis Co","County":"Chippewa","Latitude":"46.4937558","Longitude":"-84.3684052","Street":"3398 I-75","City":"Sault Ste. Marie","State":"MI","Zip":"49783","Phone":"906-259-0028"},
+{"Store":"Glazed and Confused","County":"Iron","Latitude":"46.044438","Longitude":"-88.382742","Street":"2465 US 2 S HWY","City":"Crystal Falls","State":"MI","Zip":"49920","Phone":"906-875-4201"}
+,
+{"Store":"Higher Love Corporation","County":"Iron","Latitude":"46.0968782","Longitude":"-88.3286671","Street":"116 Superior AVE","City":"Crystal Falls","State":"MI","Zip":"49920","Phone":"906-875-3076"}
+,
+{"Store":"Lume Cannabis Co. Escanaba","County":"Delta","Latitude":"45.7278561","Longitude":"-87.0950163","Street":"3405 Spruce St","City":"Escanaba","State":"MI","Zip":"49829","Phone":"906-205-4318"}
+,
+{"Store":"Lume Cannabis Co. Negaunee","County":"Marquette","Latitude":"46.5013544","Longitude":"-87.6085221","Street":"250 US-41 S","City":"Negaunee","State":"MI","Zip":"49866","Phone":"906-242-4970"}
+,
+{"Store":"Lume Cannabis Co. Mackinaw City","County":"Emmet","Latitude":"45.7693297","Longitude":"-84.7322166","Street":"1020 S Nicolet St","City":"Mackinaw City","State":"MI","Zip":"49701","Phone":"231-268-0590"},
+{"Store":"Lume Cannabis Co. Sault Ste. Marie","County":"Chippewa","Latitude":"46.4729875","Longitude":"-84.4199745","Street":"246 3 Mile Rd","City":"Sault Ste. Marie","State":"MI","Zip":"49783","Phone":"906-275-4302"}
+,
+{"Store":"Northern Light Cannabis Co.","County":"Chippewa","Latitude":"46.3745285","Longitude":"-84.4245078","Street":"2736 W M-28","City":"Dafter","State":"MI","Zip":"49724","Phone":"906-248-8630"}
+,
+{"Store":"Northern Specialty Health","County":"Houghton","Latitude":"47.1120242","Longitude":"-88.5868026","Street":"902 Razorback Dr","City":"Houghton","State":"MI","Zip":"49931","Phone":"�906-523-5122"}
+,
+{"Store":"Rize U.P.","County":"Dickinson","Latitude":"45.8348889","Longitude":"-88.0574547","Street":"1580 N Stephenson Ave","City":"Iron Mountain","State":"MI","Zip":"49801","Phone":"906-774-3531"},
+{"Store":"The Fire Station Marquette","County":"Marquette","Latitude":"46.5440103","Longitude":"-87.3987604","Street":"351 W Washington St","City":"Marquette","State":"MI","Zip":"49855","Phone":"906-273-1211"}
+,
+{"Store":"The Fire Station Negaunee","County":"Marquette","Latitude":"46.52741","Longitude":"-87.5626188","Street":"162 Heritage Dr","City":"Negaunee","State":"MI","Zip":"49866","Phone":"906-242-2837"}
+
+]
